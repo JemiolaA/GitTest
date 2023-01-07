@@ -1,0 +1,21 @@
+konto administracyjne na komputerze
+.\mateusz.gryczan.ad
+Mateusz12345
+
+
+
+konfiguracja polaczenia do bazy postgresowej
+IP sieci: 192.168.25.250
+Port: 5432
+Baza: tytan_sql
+Login: tytan_aquard
+k7r823*4dR#K
+
+
+na komputerze masz zainstlowane programik na ktorym testowalem polaczenie do bazy
+dbeaver
+powinno byc skonfigurowany juz profil, ale nie wiem, czy on nie jest per uzytkownik
+
+
+
+
